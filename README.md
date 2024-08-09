@@ -35,4 +35,4 @@ se aprofundando em Spring Boot, Spring Data JPA, Lombok, Validation e Spring Sec
   
   <a href="https://www.linkedin.com/in/ruan-pablo-44677a193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/RuanPablo2/RuanPablo2/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/RuanPablo2/RuanPablo2/blob/output/github-contribution-grid-snake.svg)
