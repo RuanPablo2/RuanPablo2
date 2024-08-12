@@ -1,13 +1,13 @@
 ### Olá! Me chamo Ruan e tenho 22 anos 😁
 
 
-- 👩🏿‍💻 Cursando Ciências da Computação
+- 👩🏿‍💻 Cursando Ciências da Computação - 8° semestre.
 - 📫 Contato: ruan.pablo2002@outlook.com.br
 
 - ☕️ Se aprofundando nos conhecimentos da linguagem Java e no ambiente de desenvolvimento Spring,
 se aprofundando em Spring Boot, Spring Data JPA, Lombok, Validation e Spring Security.
 
-- 📕 Iniciando os estudos no front-end com o framwork Angular.
+- 📕 Iniciando os estudos no front-end com o framework Angular.
 
 </div>
   
