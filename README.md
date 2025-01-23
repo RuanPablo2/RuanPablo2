@@ -17,8 +17,8 @@ se aprofundando em Spring Boot, Spring Data JPA, Lombok, Validation e Spring Sec
 
 <div align="center">
   <a href="https://github.com/RuanPablo2">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RuanPablo1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanPablo1&layout=compact&langs_count=7&theme=dark"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RuanPablo2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanPablo2&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
  
