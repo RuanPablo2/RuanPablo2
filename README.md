@@ -1,36 +1,44 @@
-### Olá! Me chamo Ruan e tenho 22 anos 😁
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=35&duration=4000&pause=70&color=FFFFFF&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Ol%C3%A1%2C+eu+sou+o+Ruan!)](https://git.io/typing-svg)
 
+🎓 **Bacharelado em Ciência da Computação**  
+☕ **Desenvolvedor Back-end Java** | APIs REST | Spring Boot  
+📫 **Contato:** ruan.pablo2002@outlook.com.br  
+📍 **LinkedIn:** [Ruanpablo2](https://www.linkedin.com/in/ruan-pablo-44677a193/)  
 
-- 👩🏿‍💻 Cursando Ciências da Computação - 8° semestre.
-- 📫 Contato: ruan.pablo2002@outlook.com.br
+---
 
-- ☕️ Se aprofundando nos conhecimentos da linguagem Java e no ambiente de desenvolvimento Spring,
-se aprofundando em Spring Boot, Spring Data JPA, Lombok, Validation e Spring Security.
+## 🚀 Sobre mim  
 
-- 📕 Iniciando os estudos no front-end com o framework Angular.
+Atualmente, sou estudante de Ciência da Computação e estou me especializando no desenvolvimento **back-end com Java e Spring Boot**. Meu foco é criar aplicações escaláveis, seguras e bem estruturadas, aplicando boas práticas de arquitetura e engenharia de software.  
 
-</div>
-  
-  ##
- 
-<div> 
+Tenho experiência no desenvolvimento de **APIs REST**, com ênfase em:  
+
+✅ **Spring Boot** (Spring Data JPA, Spring Security, Validation)  
+✅ **Banco de dados** (PostgreSQL, MySQL, MongoDB)  
+✅ **Integração e segurança** (JWT, OAuth2)  
+✅ **Gerenciamento de versões e CI/CD** (Git, GitHub Actions)  
+
+Atualmente, estou ampliando meus conhecimentos em **Angular**, explorando o desenvolvimento full stack para melhor integração entre front-end e back-end.  
+
+---
+
+## 🛠️ Tecnologias  
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="60" height="60"/>
+</div>  
+
+---
+
+## 📊 Estatísticas  
 
 <div align="center">
-  <a href="https://github.com/RuanPablo2">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RuanPablo2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanPablo2&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
- 
- <img align="center" alt="Ruan-Java" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Ruan-HTML" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ruan-CSS" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ruan-Js" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- 
-</div>
-  
-  ##
- 
-<div> 
-  
-  <a href="https://www.linkedin.com/in/ruan-pablo-44677a193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=23&duration=4000&pause=70&color=FFFFFF&width=435&lines=%F0%9F%91%8B+Obrigado+pela+visita!)](https://git.io/typing-svg)
