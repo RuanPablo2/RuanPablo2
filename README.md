@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mim  
 
-Atualmente, sou estudante de Ciência da Computação e estou me especializando no desenvolvimento **back-end com Java e Spring Boot**. Meu foco é criar aplicações escaláveis, seguras e bem estruturadas, aplicando boas práticas de arquitetura e engenharia de software.  
+Sou recém formado em Ciência da Computação e estou me especializando no desenvolvimento **back-end com Java e Spring Boot**. Meu foco é criar aplicações escaláveis, seguras e bem estruturadas, aplicando boas práticas de arquitetura e engenharia de software.  
 
 Tenho experiência no desenvolvimento de **APIs REST**, com ênfase em:  
 
