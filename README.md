@@ -3,7 +3,7 @@
 🎓 **Bacharelado em Ciência da Computação**  
 ☕ **Desenvolvedor Back-end Java** | APIs REST | Spring Boot  
 📫 **Contato:** ruan.pablo2002@outlook.com.br  
-📍 **LinkedIn:** [Ruanpablo2](https://www.linkedin.com/in/ruan-pablo-44677a193/)  
+📍 **LinkedIn:** [Ruanpablo2](https://www.linkedin.com/in/ruanpablo2/)  
 
 ---
 
