@@ -52,7 +52,7 @@ Sou recém-graduado em Ciência da Computação e estou focando minha carreira n
         <img src="https://img.shields.io/badge/Status-Finalizado-blue?style=flat-square" />
       </div>
       <br />
-      <b>E-commerce Backend</b> com gestão de pedidos e integração de pagamentos reais.
+      <b>E-commerce Backend</b> com gestão de pedidos e simulação de pagamentos.
       <br /><br />
       - 💳 <b>Stripe Integration:</b> Pagamentos via Webhooks.  
       - 📦 <b>Stock Control:</b> Reserva e baixa automática de itens.  
