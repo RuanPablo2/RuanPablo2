@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&lines=%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Ol%C3%A1%2C+eu+sou+o+Ruan+Pablo;Desenvolvedor+Java+J%C3%BAnior;Bacharel+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Backend+%E2%80%A2+APIs+%E2%80%A2+Spring" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&lines=Ruan+Pablo+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Desenvolvedor+Java+J%C3%BAnior+☕;Bacharel+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+🎓;Backend+%E2%80%A2+APIs+%E2%80%A2+Spring" alt="Typing SVG" />
 </div>
 
 ### 🛰️ Vamos conversar?
