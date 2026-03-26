@@ -23,6 +23,31 @@ Sou recém-graduado em Ciência da Computação e estou focando minha carreira n
 
 ---
 
+## 🛠️ Stack Tecnológica
+
+<table align="center">
+  <tr>
+    <td align="center" width="120"><b>Linguagens</b></td>
+    <td align="center" width="120"><b>Frameworks</b></td>
+    <td align="center" width="120"><b>Banco de Dados</b></td>
+    <td align="center" width="120"><b>Ferramentas</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,js,ts" alt="Linguagens" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=spring,angular,hibernate" alt="Frameworks" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="DB" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,git,githubactions,maven" alt="DevOps" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 📁 Projetos em Destaque
