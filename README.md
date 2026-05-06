@@ -68,24 +68,24 @@ Sou recém-graduado em Ciência da Computação e estou focando minha carreira n
       <br /><br />
       <div align="center">
         <a href="https://github.com/RuanPablo2/beancounter"><b>Ver Repositório</b></a> | 
-        <a href="https://beancounter-production.up.railway.app/"><b>Ver Demo</b></a>
+        <a href="https://beancounter-production.up.railway.app/"><b>Em produção</b></a>
       </div>
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🛒 Mercado API</h3>
+        <h3>🎫 TicketFlow</h3>
         <img src="https://img.shields.io/badge/Status-Finalizado-blue?style=flat-square" />
       </div>
       <br />
-      <b>E-commerce Backend</b> com gestão de pedidos e simulação de pagamentos.
+      <b>Help Desk Corporativo</b> baseado em arquitetura de microsserviços.
       <br /><br />
-      - 💳 <b>Stripe Integration:</b> Pagamentos via Webhooks.  
-      - 📦 <b>Stock Control:</b> Reserva e baixa automática de itens.  
-      - 🛠 <b>Stack:</b> Spring Boot, Docker, Railway, CI/CD.
+      - 🛰️ <b>Event-Driven:</b> Notificações assíncronas via RabbitMQ.
+      - 🛡️ <b>API Gateway:</b> Roteamento centralizado e segurança RBAC.
+      - 🛠 <b>Stack:</b> Java 21, Spring Boot 4, RabbitMQ, Oracle Cloud.
       <br /><br />
       <div align="center">
-        <a href="https://github.com/RuanPablo2/mercadoapi"><b>Ver Repositório</b></a> | 
-        <a href="https://mercadoapi-production.up.railway.app/api"><b>Ver Demo</b></a>
+        <a href="https://github.com/RuanPablo2/TicketFlow"><b>Ver Repositório</b></a> | 
+        <a href="https://ticketflow-web.netlify.app"><b>Em produção</b></a>
       </div>
     </td>
   </tr>
@@ -93,15 +93,18 @@ Sou recém-graduado em Ciência da Computação e estou focando minha carreira n
     <td colspan="2" align="center">
       <br />
       <div align="center">
-        <h3>☕ Java Raiz: Road to OCP</h3>
-        <img src="https://img.shields.io/badge/Foco-Certifica%C3%A7%C3%A3o%20OCP-orange?style=flat-square" />
+        <h3>🚛 FleetRisk</h3>
+        <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=flat-square" />
       </div>
       <p align="center">
-        Meu laboratório focado em <b>fundamentos da linguagem Java</b>, algoritmos e domínio da JVM. 
-        Este repositório documenta minha preparação técnica para a certificação <b>Oracle Certified Professional</b>.
+        <b>Cotador de Seguros para Frotas</b> com arquitetura moderna e escalável.
+        <br />
+        Integrado com a <b>Tabela FIPE</b>, utilizando <b>Redis</b> para cache e <b>RabbitMQ</b> para sincronização assíncrona.
+        <br />
+        🛠 <b>Stack:</b> Java 21, Spring Boot 4, PostgreSQL, Redis, RabbitMQ.
       </p>
       <div align="center">
-        <a href="https://github.com/RuanPablo2/java-raiz-mastery"><b>Ver Laboratório de Estudos</b></a>
+        <a href="https://github.com/RuanPablo2/fleet-risk"><b>Ver Repositório</b></a>
       </div>
       <br />
     </td>
