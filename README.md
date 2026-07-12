@@ -68,7 +68,7 @@ Sou recém-graduado em Ciência da Computação e estou focando minha carreira n
       <br /><br />
       <div align="center">
         <a href="https://github.com/RuanPablo2/beancounter"><b>Ver Repositório</b></a> | 
-        <a href="https://beancounter-production.up.railway.app/"><b>Em produção</b></a>
+        <a href="https://beancounter-ui.netlify.app/login"><b>Em produção</b></a>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -105,6 +105,7 @@ Sou recém-graduado em Ciência da Computação e estou focando minha carreira n
       </p>
       <div align="center">
         <a href="https://github.com/RuanPablo2/fleet-risk"><b>Ver Repositório</b></a>
+        <a href="https://fleetrisk.netlify.app/login"><b>Em produção</b></a>
       </div>
       <br />
     </td>
