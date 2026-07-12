@@ -104,7 +104,7 @@ Sou recém-graduado em Ciência da Computação e estou focando minha carreira n
         🛠 <b>Stack:</b> Java 21, Spring Boot 4, PostgreSQL, Redis, RabbitMQ.
       </p>
       <div align="center">
-        <a href="https://github.com/RuanPablo2/fleet-risk"><b>Ver Repositório</b></a>
+        <a href="https://github.com/RuanPablo2/fleet-risk"><b>Ver Repositório</b></a> | 
         <a href="https://fleetrisk.netlify.app/login"><b>Em produção</b></a>
       </div>
       <br />
