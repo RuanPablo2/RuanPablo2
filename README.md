@@ -94,7 +94,7 @@ Sou recém-graduado em Ciência da Computação e estou focando minha carreira n
       <br />
       <div align="center">
         <h3>🚛 FleetRisk</h3>
-        <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Finalizado-blue?style=flat-square" />
       </div>
       <p align="center">
         <b>Cotador de Seguros para Frotas</b> com arquitetura moderna e escalável.
