@@ -15,7 +15,7 @@
 ---
 
 ## 👨‍💻 Sobre Mim
-Sou recém-graduado em Ciência da Computação e estou focando minha carreira no desenvolvimento **Back-end com Java e Spring Boot**. Acredito que a base teórica da faculdade aliada à prática constante é o caminho para me tornar um desenvolvedor sólido. Atualmente, estou estudando **Angular** para entender melhor o ciclo completo de uma aplicação e me preparando para os desafios da certificação **OCP**.
+Sou graduado em Ciência da Computação e estou focando minha carreira no desenvolvimento **Back-end com Java e Spring Boot**. Acredito que a base teórica da faculdade aliada à prática constante é o caminho para me tornar um desenvolvedor sólido. Atualmente, estou estudando **Angular** para entender melhor o ciclo completo de uma aplicação e me preparando para os desafios da certificação **OCP**.
 
 - 🛠️ **Estudando no momento:** Segurança com JWT e integração de APIs com Angular.
 - 🎓 **Formação:** Bacharel em Ciência da Computação (Cruzeiro do Sul - 2025).
